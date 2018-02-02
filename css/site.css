@@ -71,6 +71,7 @@ a.github-link:hover {
 
 .project-card {
   text-align: center;
+   padding-bottom: 5px;
 }
 
 .project-name {
@@ -131,7 +132,7 @@ a.github-link:hover {
   }
 
   .projects-title {
-    font-size: 22px;
+    font-size: 32px;
   }
 
   .project-link {
@@ -200,7 +201,7 @@ a.github-link:hover {
   }
 
    .projects-title {
-    font-size: 32px;
+    font-size: 28px;
   }
 
   .project-description,
