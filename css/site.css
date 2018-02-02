@@ -1,15 +1,12 @@
 * {
   box-sizing: border-box;
-   max-width: 1200px;
-    margin: auto;
-    padding: 5px;
-    background-color: black;
+
 }
 
 body {
   font-family: 'Raleway', sans-serif;
   font-weight: 300;
-  color: #80774c;
+  color: #ba9077;
 }
 
 h1,
@@ -20,9 +17,6 @@ h4 {
   margin: 0;
 }
 
-img {
-  max-width: 100%;
-}
 
 p {
   margin: 0;
@@ -30,7 +24,7 @@ p {
 
 a.github-link {
   font-weight: 400;
-  color: #008a45;
+  color: #5a5c51;
   text-decoration: none;
 }
 
@@ -42,13 +36,14 @@ a.github-link:hover {
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
-  border-bottom: 4px solid #529671;
+  border-bottom: 4px solid #5a5c51;
   margin-bottom: 20px;
 }
 
 .logo-image {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
 }
 
 .name-title {
@@ -97,6 +92,8 @@ a.github-link:hover {
 .project-img {
   max-width: 100%;
   margin: 0;
+  width:200;
+  height:100;
 }
 
 .project-description {
