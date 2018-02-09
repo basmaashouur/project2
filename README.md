@@ -8,4 +8,4 @@ projects I completed in the Nanodegree program.
 
 
 ## Note
-The site is online  [here](https://basmaashouur.github.io/project2-udacity/)
+You can visit the site  [here](https://basmaashouur.github.io/project2-udacity/)
